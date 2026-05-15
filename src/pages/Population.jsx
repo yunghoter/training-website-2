@@ -17,7 +17,7 @@ function Population() {
 
   return (
     <div className="container py-5">
-      <h1 className="display-5 text-center mb-5">Ареал та популяція Лисиці звичайної</h1>
+      <h1 className="display-5 text-center mb-5">Ареал та популяція антилоп</h1>
 
       <div className="row">
         {/* Table of Contents */}

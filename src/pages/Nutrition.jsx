@@ -14,7 +14,7 @@ function Nutrition() {
 
           <h4 className="mt-4">Основний раціон:</h4>
           <ul className="list-group">
-            <li className="list-group-item">Більшу частину дня гарни жують жуйку, лежачи у затінку.)</li>
+            <li className="list-group-item">Більшу частину дня гарни жують жуйку, лежачи у затінку.</li>
             <li className="list-group-item">Раціон антилопи залежить від пори року, загалом це трава і їй подібні.</li>
             <li className="list-group-item">Ласує корінцями, які видобуває, розкопуючи землю копитами або носом.</li>
           </ul>
