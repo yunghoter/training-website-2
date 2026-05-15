@@ -7,7 +7,7 @@ function Home() {
       <section 
         className="hero d-flex align-items-center text-center text-white"
         style={{
-          background: 'linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("/images/morphology-main.jpg")',
+          background: 'linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("/images/antylope-main.jpeg")',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           height: '85vh'
@@ -29,10 +29,10 @@ function Home() {
           <h2 className="text-center mb-5">Дізнайтесь більше про антилопу</h2>
           <div className="row g-4">
             {[
-              { title: "Зовнішній вигляд", link: "/morphology", img: "/images/fox-head.jpg" },
-              { title: "Харчування", link: "/nutrition", img: "/images/nutrition-main.jpg" },
-              { title: "Ареал та популяція", link: "/population", img: "/images/fox-tail.jpg" },
-              { title: "Фотогалерея", link: "/photo", img: "/images/photo1.jpg" }
+              { title: "Зовнішній вигляд", link: "/morphology", img: "/images/antylope-head.jpeg" },
+              { title: "Харчування", link: "/nutrition", img: "/images/antylope-ears.jpeg" },
+              { title: "Ареал та популяція", link: "/population", img: "/images/antylope-tail.jpeg" },
+              { title: "Фотогалерея", link: "/photo", img: "/images/antylope-main.jpeg" }
             ].map((item, index) => (
               <div className="col-md-6 col-lg-3" key={index}>
                 <div className="card h-100 shadow">
