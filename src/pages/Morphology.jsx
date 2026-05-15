@@ -6,7 +6,7 @@ function Morphology() {
 
       <div className="text-center mb-5">
         <img 
-          src="/images/morphology-main.jpg" 
+          src="/images/antylope-head.jpg" 
           className="img-fluid rounded shadow-lg" 
           alt="Антилопа звичайна" 
           style={{ maxHeight: '520px' }}
