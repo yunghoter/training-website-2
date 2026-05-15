@@ -2,7 +2,7 @@ function Morphology() {
   return (
     <div className="container py-5">
       <h1 className="display-5 text-center mb-5">Зовнішній вигляд Антилопи звичайної</h1>
-      <h2 className="text-center text-muted mb-5">(Vulpes vulpes)</h2>
+      <h2 className="text-center text-muted mb-5">Трішки більше про антилоп:</h2>
 
       <div className="text-center mb-5">
         <img 
