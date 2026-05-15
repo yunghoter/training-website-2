@@ -14,9 +14,9 @@ function Home() {
         }}
       >
         <div className="container">
-          <h1 className="display-3 fw-bold mb-3">Лисиця звичайна</h1>
+          <h1 className="display-3 fw-bold mb-3">Антилопа звичайна</h1>
           <h2 className="display-6 mb-4">Vulpes vulpes</h2>
-          <p className="lead mb-4">Хитрий і красивий хижак родини псових</p>
+          <p className="lead mb-4">Дуже гарний лісний ссавець</p>
           <Link to="/morphology" className="btn btn-light btn-lg">
             Дізнатися більше →
           </Link>
@@ -26,7 +26,7 @@ function Home() {
       {/* Картки */}
       <section className="py-5 bg-light">
         <div className="container">
-          <h2 className="text-center mb-5">Дізнайтесь більше про лисицю</h2>
+          <h2 className="text-center mb-5">Дізнайтесь більше про антилопу</h2>
           <div className="row g-4">
             {[
               { title: "Зовнішній вигляд", link: "/morphology", img: "/images/fox-head.jpg" },
