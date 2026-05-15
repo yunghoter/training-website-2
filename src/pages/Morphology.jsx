@@ -6,7 +6,7 @@ function Morphology() {
 
       <div className="text-center mb-5">
         <img 
-          src="/images/antylope-head.jpg" 
+          src="/images/antylope-head.jpeg" 
           className="img-fluid rounded shadow-lg" 
           alt="Антилопа звичайна" 
           style={{ maxHeight: '520px' }}
@@ -43,9 +43,9 @@ function Morphology() {
 
         <div className="col-lg-5">
           <div className="row g-3">
-            <div className="col-6"><img src="/images/antylope-head.jpg" className="img-fluid rounded shadow" alt="Голова" /></div>
-            <div className="col-6"><img src="/images/antylope-tail.jpg" className="img-fluid rounded shadow" alt="Хвіст" /></div>
-            <div className="col-12"><img src="/images/antylope-ears.jpg" className="img-fluid rounded shadow" alt="Вуха" /></div>
+            <div className="col-6"><img src="/images/antylope-head.jpeg" className="img-fluid rounded shadow" alt="Голова" /></div>
+            <div className="col-6"><img src="/images/antylope-tail.jpeg" className="img-fluid rounded shadow" alt="Хвіст" /></div>
+            <div className="col-12"><img src="/images/antylope-ears.jpeg" className="img-fluid rounded shadow" alt="Вуха" /></div>
           </div>
         </div>
       </div>
